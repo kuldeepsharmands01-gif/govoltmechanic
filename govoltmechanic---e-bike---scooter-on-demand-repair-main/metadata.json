@@ -1,0 +1,6 @@
+{
+  "name": "GOVOLTMechanic - E-Bike & Scooter On-Demand Repair",
+  "description": "Online repair booking and real-time technician location tracking platform for electric bikes and scooters.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
