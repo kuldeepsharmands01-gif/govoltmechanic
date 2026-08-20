@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cyanGradFav" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="#0A0B10" />
+  <rect x="8" y="8" width="84" height="84" rx="20" fill="url(#cyanGradFav)" />
+  <rect x="14" y="14" width="72" height="72" rx="16" fill="#0A0B10" />
+  <path d="M 58 20 L 30 58 L 48 58 L 38 84 L 70 46 L 50 46 Z" fill="url(#cyanGradFav)" />
+</svg>
